@@ -1,0 +1,9 @@
+Run with
+Python Model.py soundfile1_path soundfile2_path 
+
+Requitment
+librosa
+numpy
+scipy.io
+keras
+Tensorflow
